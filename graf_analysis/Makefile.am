@@ -9,7 +9,6 @@ pkggrafana_PYTHON = __init__.py \
 		grafanaFormatter.py \
 		table_formatter.py \
 		time_series_formatter.py \
-		heatmap_formatter.py \
 		metricRate.py \
 		metricRateBin.py \
 		compMinMeanMax.py \
